@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Task2 {
+public class Task1 {
     private static final int MIN_RANGE = 1;
     private static final int MAX_RANGE = 100;
     private static final int MAX_ATTEMPTS = 10;
